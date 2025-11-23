@@ -1,58 +1,58 @@
-## WanderLust-An Airbnb-Inspired Accommodation Booking Platform.
+# WanderLust-An Airbnb-Inspired Accommodation Booking Platform.
 WanderLust is a full-stack hotel & stay booking web application inspired by Airbnb. It allows users to explore listings, view details, upload properties, write reviews, manage accounts, and much more — built using Node.js, Express, MongoDB, and EJS.
 
 ## Features
-# User Authentication
+### User Authentication
 Secure login & signup
 Password hashing with Passport.js
 Session-based authentication
 
-# Property Listings
+### Property Listings
 Add, edit, update, delete listings
 Upload property images using Cloudinary
 Automatically store image URLs
 View listing details with owner info
 
-# Reviews & Ratings
+### Reviews & Ratings
 Add reviews with rating stars
 Delete your own reviews
 Display all reviews per listing
 
-# Fully Responsive UI
+### Fully Responsive UI
 Bootstrap 5
 Clean modern design
 
-# Cloudinary Storage
+### Cloudinary Storage
 Store user-uploaded images
 Secure access with API keys
 
-# Sessions & Cookies
+### Sessions & Cookies
 express-session
 connect-mongo
 Flash messages for user feedback
 
-# Validation
+### Validation
 Joi validation for server-side data checking
 
 ## Tech Stack
-# Frontend
+### Frontend
 EJS Templating
 Bootstrap 5
 CSS
 JavaScript
-# Backend
+### Backend
 Node.js
 Express.js
 # Database
 MongoDB
 Mongoose ORM
-# Authentication
+### Authentication
 Passport.js
 passport-local-mongoose
-# Image Storage
+### Image Storage
 Cloudinary
 Multer
-# Other Libraries
+### Other Libraries
 Method-override
 dotenv
 connect-mongo
