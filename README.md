@@ -2,17 +2,11 @@
 WanderLust is a full-stack hotel & stay booking web application inspired by Airbnb. It allows users to explore listings, view details, upload properties, write reviews, manage accounts, and much more — built using Node.js, Express, MongoDB, and EJS.
 
 ## Features
-## User Authentication
-Secure login & signup, Session-based authentication
-
-## Property Listings
-Add, edit, update, delete listings, Upload property images, Automatically store image URLs, View listing details with owner info.
-
+### User Authentication
+### Property Listings
 ### Reviews & Ratings
-Add reviews with rating stars, Delete your own reviews, Display all reviews per listing.
-
 ### Fully Responsive UI
-Clean modern design
+
 
 ## Tech Stack
 ### Frontend
